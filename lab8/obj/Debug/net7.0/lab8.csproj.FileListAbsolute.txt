@@ -1,0 +1,15 @@
+C:\Projects\OOP\Lab_8\lab8\obj\Debug\net7.0\lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\OOP\Lab_8\lab8\obj\Debug\net7.0\lab8.AssemblyInfoInputs.cache
+C:\Projects\OOP\Lab_8\lab8\obj\Debug\net7.0\lab8.AssemblyInfo.cs
+C:\Projects\OOP\Lab_8\lab8\obj\Debug\net7.0\lab8.csproj.CoreCompileInputs.cache
+C:\Projects\OOP\Lab_8\lab8\bin\Debug\net7.0\lab8.exe
+C:\Projects\OOP\Lab_8\lab8\bin\Debug\net7.0\lab8.deps.json
+C:\Projects\OOP\Lab_8\lab8\bin\Debug\net7.0\lab8.runtimeconfig.json
+C:\Projects\OOP\Lab_8\lab8\bin\Debug\net7.0\lab8.dll
+C:\Projects\OOP\Lab_8\lab8\bin\Debug\net7.0\lab8.pdb
+C:\Projects\OOP\Lab_8\lab8\obj\Debug\net7.0\lab8.dll
+C:\Projects\OOP\Lab_8\lab8\obj\Debug\net7.0\refint\lab8.dll
+C:\Projects\OOP\Lab_8\lab8\obj\Debug\net7.0\lab8.pdb
+C:\Projects\OOP\Lab_8\lab8\obj\Debug\net7.0\lab8.genruntimeconfig.cache
+C:\Projects\OOP\Lab_8\lab8\obj\Debug\net7.0\ref\lab8.dll
+C:\Projects\OOP\Lab_8\lab8\obj\Debug\net7.0\lab8.sourcelink.json
